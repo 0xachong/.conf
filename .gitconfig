@@ -1,3 +1,6 @@
+[user]
+    name = web3chong
+    email = web3chong@gmail.com
 [alias]
     # 基本操作
     co = checkout                  # 切换分支
